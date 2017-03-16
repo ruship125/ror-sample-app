@@ -16,7 +16,7 @@ ruby '2.3.1'
 	gem 'turbolinks',              '5.0.1'
 	gem 'jbuilder',                '2.6.0'
 	gem 'sdoc', group: :doc
-    gem 'rb-readline',    '0.5.3'
+    gem 'rb-readline',             '0.5.3'
 
 group :development, :test do
 	gem 'sqlite3', '1.3.11'
